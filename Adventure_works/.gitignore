@@ -1,0 +1,6 @@
+*.log
+airflow/standalone_admin_password.txt
+airflow/logs/scheduler/*
+*.pid
+*.pyc
+*.db

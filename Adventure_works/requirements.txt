@@ -1,0 +1,13 @@
+apache-airflow-providers-github==2.8.3
+apache.airflow-providers-http==4.2.0
+requests==2.31.0
+
+# HTTP libraries for robust TLS support
+urllib3==1.26.16
+
+# Cryptography libraries for enhanced SSL capabilities
+cryptography
+pyOpenSSL==23.1.1
+
+# Library for blob storage
+azure-storage-blob==12.16.0
